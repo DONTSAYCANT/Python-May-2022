@@ -23,3 +23,19 @@ Variable creation rules and program for that
 Compiler vs interpreter
 
 
+=============================
+June 5
+=============================
+
+Data type conversion table
+
+int ===> convert it in to float bool str
+float ===> convert it in to int bool str
+bool ===> convert it in to float int str
+str ===> convert it in to float bool int
+
+
+
+
+
+
