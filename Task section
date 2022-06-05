@@ -27,12 +27,24 @@ Compiler vs interpreter
 June 5
 =============================
 
+Task1:
+
 Data type conversion table
 
 int ===> convert it in to float bool str
 float ===> convert it in to int bool str
 bool ===> convert it in to float int str
 str ===> convert it in to float bool int
+
+Task2:
+
+For below programs collect input from user, pi is constant value 3.14 (print output in formatted way)
+
+write a program to calculate perimeter of the circle with radius 10.2
+write a program to calculate area of circle with radius (float) (collect using input function)
+write a program to calculate perimeter of the cricle with radius (float) (collect it through input function)
+Collect radius and height from user,
+calculate Area of cone (area of cone = 0.33 * pi * r * r * h) (int)
 
 
 
