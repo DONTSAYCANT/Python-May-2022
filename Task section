@@ -504,7 +504,31 @@ Task4:
 #PASS MARK (50 +)
 #C
 
-#65
+Task 5:
+
+Get a string from user
+Identify the middle letter of the string
+check whether it's vowel or not
+
+
+Task 6:
+
+Get two strings from user 
+check whether both are anagrams are not
+
+
+Task 7:
+
+Get a number from user
+identify whether it's odd or even
+identify whether it's positive or negative or zero
+
+
+Task 8:
+
+Collect a string from user
+Identify whether the first letter of the string is lower or upper case
+
 
 
 
