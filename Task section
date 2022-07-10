@@ -611,7 +611,14 @@ print(list(range(-5,5,3)))
 print(list(range(10,100,5)))
 print(list(range(10,0,-2)))
 
+=====================
+Tasks for 16th July
+======================
 
-https://www.geeksforgeeks.org/python-programming-examples/  (25 to 50) (10 functions programs)
+
+https://www.geeksforgeeks.org/python-programming-examples/   (50 programs) minimum 2-3 methods in each program
 10 inbuilt functions 
+Min project completions
+
+
 
