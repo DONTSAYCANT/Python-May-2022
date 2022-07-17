@@ -1,1 +1,90 @@
+Pgm1:
 
+Factorial of a number using recursion
+
+
+Pgm2:
+Collect a string from the user and reverse it like below
+
+Test Case 1:
+Input: hello welcome to python world
+Output: dlrow5 nohtyp6 ot2 emoclew7 olleh5
+
+Test case 2:
+Input: python interpreter
+Output: reterpretni11 nohtyp6
+
+Pgm3:
+Collect an integer from the user, convert it into binary number without using an inbuilt function (Don't use inbuilt function bin)
+
+Input: 12
+Output: 1100
+
+Pgm4:
+3. Collect two strings from the user and identify whether both are anagrams or not
+(All characters of one string is available in another string)
+
+Input1: pot  Input2: pto
+Output: anagrams
+
+Input1: python Input2: Java
+Output: Not anagrams
+
+Input1: gram Input2: ram
+Output: Not anagrams
+
+
+Pgm5
+Collect a string from user and identify number of pairs of vowels in it.
+
+Input: python
+Output: 0
+
+Input: Java
+Output: 1
+
+Input: science
+Output: 1
+
+
+Pgm6
+Collect two list from user. Identify number of common elements between them
+
+Input1: [3,4,5,6,10,3]  Input2: [4,7,3,8,3]
+Output: 3
+
+Input1: [5,5,10] Input2: [3,5,5,5,5]
+Output: 2
+
+Pgm7
+Fibonacci series using recursive function
+
+Input: 5
+Output: 0 1 1 2 3
+
+Input: 7
+Output: 0 1 1 2 3 5
+
+Input: 2
+Output: 0 1 1
+
+Input 10
+Output: 0 1 1 2 3 5 8
+
+
+Seminar: 10 pattern programs
+
+Print the pattern 
+
+Input: 5
+
+A
+B C
+D E F
+G H I J 
+K L M N O
+
+Input: 3
+A
+B C
+D E F
