@@ -1,3 +1,5 @@
+July 17
+
 Pgm1:
 
 Factorial of a number using recursion
@@ -21,7 +23,7 @@ Input: 12
 Output: 1100
 
 Pgm4:
-3. Collect two strings from the user and identify whether both are anagrams or not
+Collect two strings from the user and identify whether both are anagrams or not
 (All characters of one string is available in another string)
 
 Input1: pot  Input2: pto
